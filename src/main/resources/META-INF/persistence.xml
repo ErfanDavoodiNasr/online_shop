@@ -2,7 +2,7 @@
     <persistence-unit name="jdbc-postgres">
         <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
         <properties>
-            <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://localhost:5432/honeymooner"/>
+            <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://localhost:5432/honeynimair"/>
             <property name="javax.persistence.jdbc.user" value="postgres"/>
             <property name="javax.persistence.jdbc.password" value="ernoxin"/>
             <property name="hibernate.dialect" value="org.hibernate.dialect.PostgresPlusDialect"/>
